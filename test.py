@@ -4,3 +4,4 @@ def hello():
 
 if __name__ == "__main__":
     hello()
+print("For API integration testing")
